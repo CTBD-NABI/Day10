@@ -4,3 +4,4 @@ Untracked= New file that git doesn't track
 staged= file is ready to commit
 modified=Changed
 Friend changes
+Friend Another Change
