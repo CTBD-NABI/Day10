@@ -5,3 +5,4 @@ staged= file is ready to commit
 modified=Changed
 Friend changes
 Aamr change
+Friend Another Change
