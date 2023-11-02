@@ -3,5 +3,3 @@ Some Changes
 Untracked= New file that git doesn't track
 staged= file is ready to commit
 modified=Changed
-
-some thing wrong
